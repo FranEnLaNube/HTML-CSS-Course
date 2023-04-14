@@ -10,13 +10,17 @@ body {
     font-size: 20px;        /* 0px - 100px and beyond */
     font-weight: normal;   /* lighter, normal, bold  */
     text-align: center;      /* left, center or right  */ 
+}
+.main{
     margin-top: 120px;        /* From 0px and upwards   */
 }
-input {
-    display: block;
-    width: 400px;
-}
-img {
+.search-input{
+    text-align: center;      /* left, center or right  */ 
     display: block;
     width: 300px;
+}
+.logo-img{
+    display: block;
+    width: 400px;
+    text-align: center;      /* left, center or right  */ 
 }
