@@ -8,8 +8,6 @@
 node_modules/
 
 # archivos compilados
-*.html
-*.css
 *.js
 *.min.*
 
