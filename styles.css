@@ -5,10 +5,10 @@ PS: Make sure you change ALL of the listed CSS properties.
 */
 
 body {
-    background: gray;     /* red, blue, yellow, etc */
-    color: red;             /* red, blue, yellow, etc */
-    font-size: 30px;        /* 0px - 100px and beyond */
+    background: white;     /* red, blue, yellow, etc */
+    color: black;             /* red, blue, yellow, etc */
+    font-size: 20px;        /* 0px - 100px and beyond */
     font-weight: normal;   /* lighter, normal, bold  */
     text-align: center;      /* left, center or right  */ 
-    margin-top: 15px;        /* From 0px and upwards   */
+    margin-top: 20px;        /* From 0px and upwards   */
 }
