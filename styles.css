@@ -13,8 +13,10 @@ body {
     margin-top: 20px;        /* From 0px and upwards   */
 }
 input {
+    display: block;
     width: 400px;
 }
 img {
+    display: block;
     width: 300px;
 }
