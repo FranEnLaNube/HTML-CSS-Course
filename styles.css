@@ -12,3 +12,9 @@ body {
     text-align: center;      /* left, center or right  */ 
     margin-top: 20px;        /* From 0px and upwards   */
 }
+input {
+    width: 400px;
+}
+img {
+    width: 300px;
+}
