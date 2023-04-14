@@ -5,33 +5,55 @@ PS: Make sure you change ALL of the listed CSS properties.
 */
 
 body {
-    background: white;     /* red, blue, yellow, etc */
-    color: black;             /* red, blue, yellow, etc */
-    font-size: 20px;        /* 0px - 100px and beyond */
-    font-weight: normal;   /* lighter, normal, bold  */
-    text-align: center;      /* left, center or right  */ 
+    background: white;
+    /* red, blue, yellow, etc */
+    color: black;
+    /* red, blue, yellow, etc */
+    font-size: 20px;
+    /* 0px - 100px and beyond */
+    font-weight: normal;
+    /* lighter, normal, bold  */
+    text-align: center;
+    /* left, center or right  */
 }
-.main{
-margin-top: 120px;        /* From 0px and upwards   */
+
+.main {
+    margin-top: 140px;
+    /* From 0px and upwards   */
 }
-.search-input{
-    display: block;
-    width: 300px;
-}
-.logo-img{
+
+.logo-img {
     display: block;
     width: 400px;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
 }
+
+.search-input {
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+}
+
 body {
-    margin:0;
+    margin: 8px;
 }
+
+
+
+
+
+
 
 .red {
     background: #c71226;
     height: 100px;
     /*Challenge:
     Add 100px of margin on the bottom of the red box. */
-    
+
 }
 
 .blue {
