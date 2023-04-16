@@ -5,6 +5,7 @@ PS: Make sure you change ALL of the listed CSS properties.
 */
 
 body {
+    margin: 8px;
     background: white;
     /* red, blue, yellow, etc */
     color: black;
@@ -91,11 +92,6 @@ body {
 } */
 
 /*Para la bandera */
-
-body {
-    margin: 8px;
-}
-
 
 
 
