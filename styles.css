@@ -52,8 +52,14 @@ body {
     margin-right: auto;
     margin-bottom: 25px;
 }
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+}
 .btn {
     /* width: 200px; */
+    margin-left: 4px;
+    margin-right: 4px;
     margin-top: 30px;
     border: none;
     padding-left: 16px;
