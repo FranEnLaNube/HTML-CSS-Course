@@ -32,13 +32,18 @@ body {
 
 .search-input {
     font-family: arial, sans-serif;
-    padding: 10px;
+    line-height: 24px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+
     z-index: 3;
     min-height: 14px;
     background: #fff;
-    border: 1px solid #dfe1e5;
     box-shadow: none;
-    border-radius: 24px;
     margin: 0 auto;
     width: 500px;
     display: block;
@@ -46,24 +51,40 @@ body {
     margin-right: auto;
     margin-bottom: 25px;
 }
-
-.buscar {
+.botones {
+    display: block;
     color: #0f1419;
-    width: 100px;
-    border: 1px solid #cfd9de;
-    border-radius: 20px;
-    background: white;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
-    font-weight: bold;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    width: 200px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
+/*
+.buscar {}
+
+ .suerte {
+    color: #0f1419;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    width: 200px;
+    text-align: center;
+} */
+
+/*Para la bandera */
 
 body {
     margin: 8px;
 }
-
 
 
 
