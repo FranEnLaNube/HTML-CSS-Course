@@ -39,7 +39,7 @@ body {
     padding-bottom: 10px;
     border: 1px solid #dfe1e5;
     border-radius: 24px;
-
+    
     z-index: 3;
     min-height: 14px;
     background: #fff;
@@ -53,6 +53,10 @@ body {
 }
 .btnGgl {
     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 200px; */
+    margin-top: 30px;
     color: #0f1419;
     background-color: #f8f9fa;
     border: 1px solid #f8f9fa;
@@ -60,10 +64,7 @@ body {
     color: #3c4043;
     font-family: arial,sans-serif;
     font-size: 14px;
-    width: 200px;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
 }
 /*
 .buscar {}
